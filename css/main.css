@@ -44,8 +44,9 @@ h4 {
 .jumbotron{
   background: url('../images/contact.png');
   background-size: 100%;
-  padding-top:  100px ;
-  padding-bottom: 800px;
+  background-repeat: no-repeat;
+  padding-top:  500px;
+  padding-bottom: 200px;
   background-repeat: no-repeat;
 }
 body .contact{
