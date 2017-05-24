@@ -23,5 +23,14 @@ h4 {
 }
 
 .thumbnail .caption{
-  align-items: canter;
+  align-items: center;
+}
+.banner {
+    margin-bottom: 0px;
+    background-image: url(../images/attraction/bangrakinfographic.jpg);
+    background-position: top;
+    background-size: cover;
+    background-repeat: no-repeat;
+    color: white;
+
 }
