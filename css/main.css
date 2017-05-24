@@ -32,5 +32,12 @@ h4 {
     background-size: cover;
     background-repeat: no-repeat;
     color: white;
-
+}
+.banner2 {
+    margin-bottom: 0px;
+    background-image: url(../images/food/jpeg-3.jpg);
+    background-position: top;
+    background-size: cover;
+    background-repeat: no-repeat;
+    color: white;
 }
