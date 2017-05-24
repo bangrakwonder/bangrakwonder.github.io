@@ -41,3 +41,13 @@ h4 {
     background-repeat: no-repeat;
     color: white;
 }
+.jumbotron{
+  background: url('../images/contact.png');
+  background-size: 100%;
+  padding-top:  500px;
+  padding-bottom: 200px;
+  background-repeat: no-repeat;
+}
+body .contact{
+  color: black;
+}
